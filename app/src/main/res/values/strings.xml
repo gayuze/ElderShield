@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ElderShield</string>
+    <string name="app_tagline">Intelligent Digital Safety Assistant</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_safety">Device Safety</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_learn">Learn</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="welcome_user">Welcome to ElderShield</string>
+    <string name="safety_overview">Device Safety Overview</string>
+    <string name="latest_scan">Latest Scan</string>
+    <string name="no_scans_yet">No scan performed yet</string>
+    <string name="concerns_count">Detected Concerns</string>
+    <string name="privacy_status">Privacy Status</string>
+    <string name="permission_alerts">Permission Alerts</string>
+    <string name="family_status">Family Guardian</string>
+    <string name="family_active">Active &amp; Protected</string>
+    <string name="family_inactive">Not Configured</string>
+
+    <!-- Security Statuses -->
+    <string name="status_safe">No concerns detected in recent checks</string>
+    <string name="status_attention">Attention recommended</string>
+    <string name="status_suspicious">Suspicious activity detected</string>
+    <string name="status_critical">Immediate action required</string>
+    <string name="status_pending_checks">Additional checks required</string>
+
+    <!-- Quick Action Buttons -->
+    <string name="btn_quick_scan">Quick Scan</string>
+    <string name="btn_check_ad">Check Advertisement</string>
+    <string name="btn_check_link">Check Link</string>
+    <string name="btn_emergency_help">Emergency Help</string>
+    <string name="btn_voice_listen">Listen Explanation</string>
+    <string name="btn_voice_stop">Stop Voice</string>
+
+    <!-- Severity Levels -->
+    <string name="severity_low">Low</string>
+    <string name="severity_medium">Medium</string>
+    <string name="severity_high">High</string>
+    <string name="severity_critical">Critical</string>
+
+    <!-- Modules -->
+    <string name="module_ad_scam">Smart Advertisement &amp; Scam Detector</string>
+    <string name="module_url_phishing">Suspicious URL &amp; Phishing Detector</string>
+    <string name="module_permission_auditor">Application Permission Auditor</string>
+    <string name="module_behavior_analyzer">Behaviour &amp; Anomaly Detector</string>
+    <string name="module_identity_detector">Identity Exposure Detector</string>
+    <string name="module_financial_scam">Financial Scam Protection</string>
+    <string name="module_app_trust">Application Trust Auditor</string>
+    <string name="module_remote_guard">Remote Access Safety Monitor</string>
+    <string name="module_family_guardian">Family Guardian</string>
+    <string name="module_learning_assistant">Digital Safety Learning</string>
+
+    <!-- Common UI -->
+    <string name="action_view_details">View Details</string>
+    <string name="action_open_settings">Open Android Settings</string>
+    <string name="action_share_report">Share with Family</string>
+    <string name="action_delete_history">Clear History</string>
+    <string name="action_retry">Try Again</string>
+    <string name="label_evidence">Evidence:</string>
+    <string name="label_explanation">Explanation:</string>
+    <string name="label_action">Recommended Action:</string>
+    <string name="label_confidence">Confidence:</string>
+
+    <!-- Language & Accessibility -->
+    <string name="language_title">Select Language</string>
+    <string name="lang_english">English</string>
+    <string name="lang_tamil">தமிழ் (Tamil)</string>
+    <string name="text_size_large">Large Text Mode</string>
+    <string name="voice_guidance_enable">Voice Guidance Enabled</string>
+    <string name="disclaimer_protection">Notice: ElderShield helps identify known digital safety patterns and permitted indicators. No tool guarantees absolute immunity from malware or scams.</string>
+</resources>

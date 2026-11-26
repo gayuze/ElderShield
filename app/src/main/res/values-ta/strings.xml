@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">எல்டர்ஷீல்டு (ElderShield)</string>
+    <string name="app_tagline">எளிய மற்றும் பாதுகாப்பான டிஜிட்டல் உதவியாளர்</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">முகப்பு</string>
+    <string name="nav_scan">ஸ்கேன்</string>
+    <string name="nav_safety">சாதனப் பாதுகாப்பு</string>
+    <string name="nav_reports">அறிக்கைகள்</string>
+    <string name="nav_learn">கற்றல்</string>
+    <string name="nav_settings">அமைப்புகள்</string>
+
+    <!-- Dashboard -->
+    <string name="welcome_user">எல்டர்ஷீல்டிற்கு நல்வரவு</string>
+    <string name="safety_overview">சாதனப் பாதுகாப்பு மேலோட்டம்</string>
+    <string name="latest_scan">சமீபத்திய ஸ்கேன்</string>
+    <string name="no_scans_yet">இதுவரை ஸ்கேன் செய்யப்படவில்லை</string>
+    <string name="concerns_count">கண்டறியப்பட்ட அச்சுறுத்தல்கள்</string>
+    <string name="privacy_status">தனியுரிமை நிலை</string>
+    <string name="permission_alerts">அனுமதி எச்சரிக்கைகள்</string>
+    <string name="family_status">குடும்பப் பாதுகாப்பு</string>
+    <string name="family_active">செயலில் உள்ளது</string>
+    <string name="family_inactive">இணைக்கப்படவில்லை</string>
+
+    <!-- Security Statuses -->
+    <string name="status_safe">சமீபத்திய சோதனைகளில் அச்சுறுத்தல்கள் ஏதுமில்லை</string>
+    <string name="status_attention">கவனம் செலுத்தப் பரிந்துரைக்கப்படுகிறது</string>
+    <string name="status_suspicious">சந்தேகத்திற்கிடமான செயல்பாடு கண்டறியப்பட்டது</string>
+    <string name="status_critical">உடனடி நடவடிக்கை தேவை</string>
+    <string name="status_pending_checks">கூடுதல் சரிபார்ப்புகள் தேவைப்படுகின்றன</string>
+
+    <!-- Quick Action Buttons -->
+    <string name="btn_quick_scan">விரைவு ஸ்கேன்</string>
+    <string name="btn_check_ad">விளம்பரம் சரிபார்</string>
+    <string name="btn_check_link">இணைப்பை சரிபார்</string>
+    <string name="btn_emergency_help">அவசர உதவி</string>
+    <string name="btn_voice_listen">குரல் விளக்கத்தைக் கேளுங்கள்</string>
+    <string name="btn_voice_stop">குரலை நிறுத்து</string>
+
+    <!-- Severity Levels -->
+    <string name="severity_low">குறைவு</string>
+    <string name="severity_medium">நடுத்தரம்</string>
+    <string name="severity_high">அதிகம்</string>
+    <string name="severity_critical">மிக ஆபத்தானது</string>
+
+    <!-- Modules -->
+    <string name="module_ad_scam">போலி விளம்பரம் மற்றும் மோசடி கண்டறிதல்</string>
+    <string name="module_url_phishing">சந்தேக வலைத்தள இணைப்பு கண்டறிதல்</string>
+    <string name="module_permission_auditor">செயலி அனுமதி தணிக்கை</string>
+    <string name="module_behavior_analyzer">செயலி நடத்தை மற்றும் மாறுபாடு பகுப்பாய்வு</string>
+    <string name="module_identity_detector">தனிநபர் தகவல் கசிவு பாதுகாப்பு</string>
+    <string name="module_financial_scam">பணப் பரிவர்த்தனை மோசடி பாதுகாப்பு</string>
+    <string name="module_app_trust">நம்பகமற்ற செயலிகள் தணிக்கை</string>
+    <string name="module_remote_guard">தொலைநிலை அணுகல் பாதுகாப்பு கண்காணிப்பு</string>
+    <string name="module_family_guardian">குடும்பப் பாதுகாவலர்</string>
+    <string name="module_learning_assistant">டிஜிட்டல் பாதுகாப்பு கல்வி</string>
+
+    <!-- Common UI -->
+    <string name="action_view_details">விவரங்களைக் காண்க</string>
+    <string name="action_open_settings">ஆண்ட்ராய்டு அமைப்புகளைத் திற</string>
+    <string name="action_share_report">குடும்பத்தினருடன் பகிர்</string>
+    <string name="action_delete_history">வரலாற்றை நீக்கு</string>
+    <string name="action_retry">மீண்டும் முயற்சி செய்</string>
+    <string name="label_evidence">சான்று:</string>
+    <string name="label_explanation">விளக்கம்:</string>
+    <string name="label_action">பரிந்துரைக்கப்படும் நடவடிக்கை:</string>
+    <string name="label_confidence">நம்பகத்தன்மை:</string>
+
+    <!-- Language & Accessibility -->
+    <string name="language_title">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="lang_english">English</string>
+    <string name="lang_tamil">தமிழ் (Tamil)</string>
+    <string name="text_size_large">பெரிய எழுத்து முறைமை</string>
+    <string name="voice_guidance_enable">குரல் வழிகாட்டுதல் இயக்கம்</string>
+    <string name="disclaimer_protection">குறிப்பு: எல்டர்ஷீல்டு அனுமதிக்கப்பட்ட அமைப்புகள் வழியாக அறியப்பட்ட அச்சுறுத்தல்களை அடையாளம் காண உதவுகிறது. எந்தவொரு செயலியும் 100% முழுப் பாதுகாப்பிற்கு உத்தரவாதம் அளிக்க இயலாது.</string>
+</resources>
